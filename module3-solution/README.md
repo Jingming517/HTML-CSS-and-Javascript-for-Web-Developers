@@ -1,2 +1,2 @@
 # module3-solution
-[Link](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+[Link](https://jingming517.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module3-solution/index.html)
